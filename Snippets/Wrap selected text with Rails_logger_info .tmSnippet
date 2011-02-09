@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Rails.logger.info("********#{$TM_SELECTED_TEXT}")
+</string>
+	<key>keyEquivalent</key>
+	<string>@L</string>
+	<key>name</key>
+	<string>Wrap selected text with Rails.logger.info </string>
+	<key>uuid</key>
+	<string>298831BD-B819-4E83-B65E-037D5BB21EA6</string>
+</dict>
+</plist>

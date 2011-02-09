@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Mynewsdesk</string>
+	<key>ordering</key>
+	<array>
+		<string>E3AD8577-DBC9-4313-AF69-F54A39AF0E97</string>
+		<string>17EBB3C3-1DEE-4E96-A242-50C8FB055E00</string>
+		<string>DA0E6C22-5DB9-45B4-ACF5-CA7B83EECE24</string>
+		<string>298831BD-B819-4E83-B65E-037D5BB21EA6</string>
+		<string>30AD243C-4331-477A-B11E-26ADC819C283</string>
+		<string>9D4663DC-F1FB-49C0-9DD6-D9786F3E74AD</string>
+	</array>
+	<key>uuid</key>
+	<string>4A6F51E1-9454-4189-BD5D-CC5C518AB129</string>
+</dict>
+</plist>

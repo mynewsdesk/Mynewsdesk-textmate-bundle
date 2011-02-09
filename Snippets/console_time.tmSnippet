@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>console.time("${1:Timer}");
+console.timeEnd("${1:Timer}");</string>
+	<key>name</key>
+	<string>console.time</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>con</string>
+	<key>uuid</key>
+	<string>DA0E6C22-5DB9-45B4-ACF5-CA7B83EECE24</string>
+</dict>
+</plist>

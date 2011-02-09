@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>console.profile("${1:Profiler}");
+console.profileEnd("${1:Profiler}");
+</string>
+	<key>name</key>
+	<string>console.profile</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>con</string>
+	<key>uuid</key>
+	<string>E3AD8577-DBC9-4313-AF69-F54A39AF0E97</string>
+</dict>
+</plist>
